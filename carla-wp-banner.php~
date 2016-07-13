@@ -188,7 +188,6 @@ class Carla_WP_Banner{
         print $this->render->display("settings" , $data );
 
 
-
     }
 
  

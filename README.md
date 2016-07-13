@@ -1,1 +1,2 @@
-# wp-banner-plugin
+This is my first wordpress plugin
+
